@@ -7,15 +7,11 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+ Hello, my name is Jungyoub (Jayden) Cha. I am currently an undergraduate student in Electrical Engineering at KAIST, and also an intern at NAVER Corp, Media Intelligence. I previously worked as a radio broadcaster at American Forces Network of the US Army, fulfilling mandatory millitary service as a KATUSA (Korean Augmentation to the US Army). 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My research interests mainly lie in **Machine Learning, Artificial Intelligence** and especially **Natural Language Processing**.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Recently, I have particularly gained interest in how **language models** can be devised to utilize prior knowledge and common sense more effectively, and **extracting information** from user-generated data.
 
-PS: If you liked the theme, do star it on GitHub!
+[CV](https://drive.google.com/file/d/1l-2KN_ZEw8UoO2LXBlSjXuni6bFYaU2L/view?usp=sharing)
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
