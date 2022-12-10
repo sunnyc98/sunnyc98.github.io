@@ -7,15 +7,15 @@ url: "https://sunnyc98.github.io" #custom url to be used instead of GitHub repos
 email: #
 
 # Pagination
-paginate: 1
+paginate: 4
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-github: "#"
-instagram: "#"
+# twitter: "#"
+# linkedin: "#" 
+# github: "#"
+# instagram: "#"
 
 # Markdown
 highlighter: rouge
