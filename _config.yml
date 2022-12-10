@@ -8,7 +8,7 @@ url: "https://sunnyc98.github.io" #custom url to be used instead of GitHub repos
 email: #
 
 # Pagination
-paginate: 4
+paginate: 1
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
