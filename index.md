@@ -6,7 +6,7 @@ profile:
   image: profile.png
 published: true
 ---
-[CV](https://drive.google.com/file/d/1l-2KN_ZEw8UoO2LXBlSjXuni6bFYaU2L/view?usp=sharing)  [LinkedIn](https://www.linkedin.com/in/jungyoub-cha-25303a258/)  [Github](https://github.com/sunnyc98)  [Instagram](https://www.instagram.com/yubb3/)
+[CV](https://drive.google.com/file/d/1l-2KN_ZEw8UoO2LXBlSjXuni6bFYaU2L/view?usp=sharing)  [Github](https://github.com/sunnyc98)  [Instagram](https://www.instagram.com/yubb3/)  [LinkedIn](https://www.linkedin.com/in/jungyoub-cha-25303a258/)    
 
  Hello, my name is Jungyoub (Jayden) Cha. I am currently an undergraduate student in Electrical Engineering at **KAIST**, and an intern at **NAVER Corp, Media Intelligence**. I previously worked as a radio broadcaster at **American Forces Network** of the US Army, fulfilling mandatory millitary service as a KATUSA (Korean Augmentation to the US Army). 
 
