@@ -13,4 +13,4 @@ published: true
 
 My research interests mainly lie in **Machine Learning, Artificial Intelligence** and especially **Natural Language Processing**.
 
-Recently, I have particularly gained interest in **devising novel and effective methods for information extraction** from various sources.
+Recently, I have particularly gained interest in Controllable Text Generation.
