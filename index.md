@@ -7,7 +7,6 @@ profile:
 published: true
 ---
 [jungyoub.cha@kaist.ac.kr](mailto:jungyoub.cha@kaist.ac.kr)<br>
-[Github](https://github.com/sunnyc98)  [LinkedIn](https://www.linkedin.com/in/jungyoub-cha-25303a258/)
 
 Greetings, my name is Jungyoub Cha. I am currently an undergraduate student pursuing Electrical Engineering at the **Korea Advanced Institute of Science and Technology (KAIST)**. 
 
